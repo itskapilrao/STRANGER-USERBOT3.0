@@ -1,5 +1,5 @@
-# RiZoeL X - Telegram Projects
-# (c) 2022 - 2023 RiZoeLX
+# ItsKapilYadav - Telegram Projects
+# (c) 2025 - 2026 ItsKapilYadav
 
 import os, sys, asyncio, re
 from random import choice
