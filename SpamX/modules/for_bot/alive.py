@@ -1,4 +1,4 @@
-""" © RiZoeLX 2022 - 2023
+""" © ItsKapilYadav 2025 - 2026
    (\_/)
    ( • .•)
    />❤️ 
@@ -106,8 +106,8 @@ async def SpamX_(SpamX: Client, message: Message):
        spamx_reply += f"**Total Sudos:** `{users_db.sudo_count()}` \n"
        spamx_reply += f"**Total Gbanned users:** `{gban_db.gban_count()}` \n"
     spamx_reply += "<=======================> \n\n"
-    spamx_reply += "**Source Code:** [GitHub 🐈‍⬛](https://github.com/itzshukla/STRANGER-USERBOT3.0) \n\n"
-    spamx_reply += "**© @SHIVANSH39** || Support: @MASTIWITHFRIENDSXD"
+    spamx_reply += "**Source Code:** [GitHub 🐈‍⬛](https://files.catbox.moe/2d32oj.mp4) \n\n"
+    spamx_reply += "**© @ItsKapilYadav** || Support: @KomalMusicRobotSupport"
     
     try:
        await info.edit_text(spamx_reply, disable_web_page_preview=True)
