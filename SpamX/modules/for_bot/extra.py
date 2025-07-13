@@ -24,7 +24,7 @@ async def uspam(SpamX: Client, e: Message):
        await e.reply("Gime Spam message bruh!")
        return
     if re.search(res_devs.lower(), msg.lower()):
-       await e.reply("**Sorry !!** I can't Spam On @SHIVANSH39's owner")
+       await e.reply("**Sorry !!** I can't Spam On @ItsKapilYadav's owner")
        return
 
     try:
