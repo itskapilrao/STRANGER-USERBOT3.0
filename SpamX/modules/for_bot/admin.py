@@ -1,5 +1,5 @@
 """
-   © RiZoeLX 
+   © ItsKapilYadav 
    SpamX - Telegram Bots
 """
 
