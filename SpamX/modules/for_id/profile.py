@@ -1,6 +1,6 @@
-# RiZoeL X - Telegram Projects
-# (c) 2022 - 2023 RiZoeL
-# Don't Kang Bitch -!
+# ItsKapilYadav - Telegram Projects
+# (c) 2024 - 2026 ItsKapilYadav
+
 
 
 
